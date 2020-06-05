@@ -1,0 +1,14 @@
+print("1234")
+a=40.5
+b=50.5
+a=10
+print(a)
+print(b)
+x=1+2**3/4*5
+print(x)
+test='hello'+"1"
+print(test)
+print(type(test))
+i=45
+j=45.0
+print(i+j)
